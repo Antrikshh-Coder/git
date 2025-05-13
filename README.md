@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antriksh Sandesh . Manwadkar</h1>
 <h3 align="center">I'm a Developer, Builder, and Lifelong learner who loves turning ideas into real-world applications. Whether it's open source tools, web apps, or tiny scripts, I'm all about clean code, clever ideas, and continuous improvement.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antrikshh-coder&label=Profile%20views&color=0e75b6&style=flat" alt="antrikshh-coder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrikshh-coder" alt="antrikshh-coder" /></a> </p>
-
 - 🔭 I’m currently working on **HTML / CSS Projects**
 
 - 🌱 I’m currently learning **Frontend Development**
